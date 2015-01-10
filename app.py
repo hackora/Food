@@ -51,7 +51,7 @@ def application(environ, start_response):
 
    return [response_body]
 
-httpd = make_server('localhost', 8051, application)
+httpd = make_server('localhost', int(os.environ.get('$PORT', 5000)), application)
 # Now it is serve_forever() in instead of handle_request().
 # In Windows you can kill it in the Task Manager (python.exe).
 # In Linux a Ctrl-C will do it.
