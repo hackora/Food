@@ -1,5 +1,5 @@
 [
-    "all purpose flour"
+    "all purpose flour",
     "ancho chile pepper",
     "garlic clove",
     "ground allspice",
@@ -8,23 +8,23 @@
     "olive oil",
     "white wine vinegar",
     "orange juice",
-    "kosher salt"
+    "kosher salt",
     "SuprÃƒÂªme Sauce",
     "Glace de Volaille",
     "Red Pepper Butter",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "Veal VeloutÃƒÂ©",
     "egg yolks",
     "heavy cream",
     "Lemon Juice (fresh)",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "unsalted butter",
     "granulated sugar",
     "eggs",
     "all purpose flour",
-    "ground almonds"
+    "ground almonds",
     "cake flour",
     "baking powder",
     "salt",
@@ -32,7 +32,7 @@
     "granulated sugar",
     "eggs",
     "vanilla extract",
-    "lemon extract"
+    "lemon extract",
     "egg yolks",
     "milk",
     "all purpose flour",
@@ -42,13 +42,13 @@
     "ground cinnamon",
     "golden delicious apple",
     "egg whites",
-    "confectioners sugar"
+    "confectioners sugar",
     "whole star anise",
     "apple juice",
     "salt",
     "granny smith apple",
     "Lemon Juice (fresh)",
-    "sheet gelatin"
+    "sheet gelatin",
     "granny smith apple",
     "Orange Zest",
     "Lemon Zest",
@@ -59,20 +59,20 @@
     "green onion",
     "canned cranberry sauce",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "Mc‍Intosh apple",
     "cinnamon stick",
     "granulated sugar",
-    "Lemon Juice (fresh)"
+    "Lemon Juice (fresh)",
     "dried apricots",
     "Orange Juice (fresh)",
     "granulated sugar",
     "salt",
-    "unsalted butter"
+    "unsalted butter",
     "apricot preserves",
     "fresh ginger",
     "dry mustard",
-    "red wine vinegar"
+    "red wine vinegar",
     "vegetable oil",
     "beef brisket",
     "onion",
@@ -87,12 +87,12 @@
     "red wine vinegar",
     "worcestershire sauce",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "Allemande Sauce",
     "tomato paste",
     "butter",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "lime",
     "avocado",
     "jalapeno chile pepper",
@@ -102,7 +102,7 @@
     "Tomato ConcassÃƒÂ©",
     "salt",
     "ground black pepper",
-    "onion"
+    "onion",
     "red bell pepper",
     "green bell pepper",
     "red onion",
@@ -114,34 +114,34 @@
     "plum tomatoes",
     "avocado",
     "salt",
-    "ground black pepper"
-    "bacon"
+    "ground black pepper",
+    "bacon",
     "golden delicious apple",
     "dark raisins",
     "Orange Zest",
-    "light brown sugar"
+    "light brown sugar",
     "heavy cream",
     "vanilla bean",
     "granulated sugar",
     "egg yolks",
-    "granulated sugar"
+    "granulated sugar",
     "balsamic vinegar",
     "honey",
-    "ground black pepper"
+    "ground black pepper",
     "balsamic vinegar",
     "Dijon mustard",
     "shallot",
     "salt",
     "ground black pepper",
     "extra virgin olive oil",
-    "canola oil"
+    "canola oil",
     "balsamic vinegar",
     "Dijon mustard",
     "shallot",
     "salt",
     "ground black pepper",
     "extra virgin olive oil",
-    "canola oil"
+    "canola oil",
     "barley",
     "water",
     "butter",
@@ -150,7 +150,7 @@
     "green onion",
     "asiago cheese",
     "kosher salt",
-    "ground black pepper"
+    "ground black pepper",
     "eggs",
     "heavy cream",
     "Lemon Zest",
@@ -160,7 +160,7 @@
     "cake flour",
     "kosher salt",
     "blueberries",
-    "unsalted butter"
+    "unsalted butter",
     "wheat bran",
     "all purpose flour",
     "granulated sugar",
@@ -171,7 +171,7 @@
     "molasses",
     "eggs",
     "vanilla extract",
-    "unsalted butter"
+    "unsalted butter",
     "yellow cornmeal",
     "all purpose flour",
     "granulated sugar",
@@ -180,45 +180,45 @@
     "salt",
     "buttermilk",
     "eggs",
-    "unsalted butter"
+    "unsalted butter",
     "confectioners sugar",
     "unsalted butter",
     "vegetable shortening",
     "light corn syrup",
     "water",
     "salt",
-    "vanilla extract"
+    "vanilla extract",
     "eggs",
     "olive oil",
     "salt",
-    "bread flour"
+    "bread flour",
     "unsalted butter",
     "pastry flour",
     "buttermilk",
     "salt",
     "granulated sugar",
-    "vanilla extract"
+    "vanilla extract",
     "confectioners sugar",
     "light cream",
     "unsalted butter",
-    "vanilla extract"
+    "vanilla extract",
     "wine vinegar",
     "salt",
     "ground black pepper",
-    "vegetable oil"
+    "vegetable oil",
     "unsalted butter",
     "fresh basil",
     "shallot",
     "Lemon Juice (fresh)",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "milk",
     "heavy cream",
     "granulated sugar",
     "vanilla bean",
     "egg yolks",
     "sheet gelatin",
-    "heavy cream"
+    "heavy cream",
     "Hollandaise",
     "shallot",
     "fresh tarragon",
@@ -227,9 +227,9 @@
     "white wine vinegar",
     "salt",
     "cayenne pepper",
-    "fresh tarragon"
-    "all purpose flour"
-    "beef bottom round"
+    "fresh tarragon",
+    "all purpose flour",
+    "beef bottom round",
     "garlic clove",
     "onion",
     "carrot",
@@ -251,7 +251,7 @@
     "unsalted butter",
     "pearl onion",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "beef shank",
     "vegetable oil",
     "Beef Stock",
@@ -264,7 +264,7 @@
     "whole black pepper",
     "fresh parsley",
     "garlic clove",
-    "salt"
+    "salt",
     "egg whites",
     "ground beef",
     "Mirepoix",
@@ -275,7 +275,7 @@
     "whole black pepper",
     "fresh parsley",
     "whole cloves",
-    "salt"
+    "salt",
     "garlic clove",
     "salt",
     "whole black pepper",
@@ -289,8 +289,8 @@
     "green bell pepper",
     "onion",
     "garlic clove",
-    "fresh cilantro"
-    "beef chuck"
+    "fresh cilantro",
+    "beef chuck",
     "beef bones",
     "water",
     "Mirepoix",
@@ -298,7 +298,7 @@
     "dried whole thyme",
     "whole black pepper",
     "garlic clove",
-    "fresh parsley"
+    "fresh parsley",
     "beef tenderloin",
     "Clarified Butter",
     "onion",
@@ -311,7 +311,7 @@
     "fresh parsley",
     "salt",
     "ground black pepper",
-    "egg noodles"
+    "egg noodles",
     "beef tenderloin",
     "salt",
     "ground black pepper",
@@ -320,7 +320,7 @@
     "truffle peelings",
     "Puff Pastry",
     "Egg Wash",
-    "Madeira Sauce"
+    "Madeira Sauce",
     "shallot",
     "unsalted butter",
     "salt",
@@ -329,7 +329,7 @@
     "dried bay leaves",
     "fresh thyme",
     "beer",
-    "unsalted butter"
+    "unsalted butter",
     "beet juice",
     "fresh horseradish",
     "shallot",
@@ -341,7 +341,7 @@
     "Poultry Demi-Glace",
     "cornstarch",
     "water",
-    "salt"
+    "salt",
     "Fish VeloutÃƒÂ©",
     "shallot",
     "dry white wine",
@@ -349,7 +349,7 @@
     "butter",
     "fresh parsley",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "blackberries",
     "blueberries",
     "raspberries",
@@ -360,21 +360,21 @@
     "cinnamon stick",
     "brandy",
     "vanilla ice cream",
-    "American Pound Cake"
+    "American Pound Cake",
     "white wine vinegar",
     "white wine",
     "salt",
     "ground white pepper",
     "shallot",
-    "butter"
     "butter",
-    "all purpose flour"
+    "butter",
+    "all purpose flour",
     "red wine vinegar",
     "red wine",
     "salt",
     "ground white pepper",
     "shallot",
-    "butter"
+    "butter",
     "ground cinnamon",
     "baking powder",
     "hazelnut flour",
@@ -384,13 +384,13 @@
     "granulated sugar",
     "unsalted butter",
     "whole unblanched hazelnuts",
-    "semisweet chocolate"
+    "semisweet chocolate",
     "all purpose flour",
     "salt",
     "granulated sugar",
     "baking powder",
     "unsalted butter",
-    "milk"
+    "milk",
     "black beans",
     "water",
     "onion",
@@ -399,9 +399,9 @@
     "salt",
     "ground black pepper",
     "ground cumin",
-    "chili powder"
+    "chili powder",
     "butter",
-    "all purpose flour"
+    "all purpose flour",
     "lump crabmeat",
     "heavy cream",
     "red bell pepper",
@@ -414,7 +414,7 @@
     "Dijon mustard",
     "worcestershire sauce",
     "tabasco sauce",
-    "eggs"
+    "eggs",
     "all purpose flour",
     "granulated sugar",
     "baking powder",
@@ -424,7 +424,7 @@
     "unsalted butter",
     "vanilla extract",
     "blueberries",
-    "Lemon Zest"
+    "Lemon Zest",
     "center cut beef tenderloin",
     "white wine",
     "carrot",
@@ -443,7 +443,7 @@
     "port wine",
     "butter",
     "fresh chives",
-    "Dijon mustard"
+    "Dijon mustard",
     "Mirepoix",
     "olive oil",
     "butter",
@@ -454,8 +454,8 @@
     "Tomato ConcassÃƒÂ©",
     "White Stock",
     "salt",
-    "ground black pepper"
-    "beef strip loin"
+    "ground black pepper",
+    "beef strip loin",
     "Demi-Glace",
     "dry red wine",
     "shallot",
@@ -465,16 +465,16 @@
     "butter",
     "beef marrow",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "fresh thyme",
     "fresh Italian parsley",
     "dried bay leaves",
     "leeks",
-    "carrot"
+    "carrot",
     "unsalted butter",
     "granulated sugar",
     "eggs",
-    "bourbon"
+    "bourbon",
     "granny smith apple",
     "IQF rhubarb",
     "unsalted butter",
@@ -484,7 +484,7 @@
     "ground cinnamon",
     "ground nutmeg",
     "orange juice",
-    "salt"
+    "salt",
     "all purpose flour",
     "salt",
     "ground black pepper",
@@ -498,7 +498,7 @@
     "ground black pepper",
     "Mashed Potatoes",
     "scallions",
-    "cherry tomatoes"
+    "cherry tomatoes",
     "golden raisins",
     "brandy",
     "unsalted butter",
@@ -507,7 +507,7 @@
     "eggs",
     "granulated sugar",
     "vanilla extract",
-    "Bourbon Sauce"
+    "Bourbon Sauce",
     "Veal Cutlets (4 oz)",
     "salt",
     "ground black pepper",
@@ -517,7 +517,7 @@
     "dried bread crumbs",
     "vegetable oil",
     "butter",
-    "lemon"
+    "lemon",
     "dry active yeast",
     "water",
     "granulated sugar",
@@ -525,10 +525,10 @@
     "salt",
     "bread flour",
     "Egg Wash",
-    "sesame seeds"
+    "sesame seeds",
     "Espagnole (Brown Sauce)",
     "Lemon Juice (fresh)",
-    "butter"
+    "butter",
     "butter",
     "onion",
     "tomato paste",
@@ -541,25 +541,25 @@
     "Burgundy wine",
     "garlic",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "all purpose flour",
     "eggs",
     "salt",
     "granulated sugar",
     "dry active yeast",
     "water",
-    "unsalted butter"
+    "unsalted butter",
     "all purpose flour",
     "eggs",
     "salt",
     "granulated sugar",
     "dry active yeast",
     "water",
-    "unsalted butter"
-    "Brioche Dough"
+    "unsalted butter",
+    "Brioche Dough",
     "ruby red grapefruit",
     "sweet sherry",
-    "light brown sugar"
+    "light brown sugar",
     "vegetable oil",
     "beef chuck",
     "salt",
@@ -573,9 +573,9 @@
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "Clarified Butter",
-    "all purpose flour"
+    "all purpose flour",
     "beef bones",
     "water",
     "Mirepoix",
@@ -584,7 +584,7 @@
     "dried whole thyme",
     "whole black pepper",
     "garlic clove",
-    "fresh parsley"
+    "fresh parsley",
     "veal bones",
     "water",
     "Mirepoix",
@@ -593,7 +593,7 @@
     "dried whole thyme",
     "whole black pepper",
     "garlic clove",
-    "fresh parsley"
+    "fresh parsley",
     "all purpose flour",
     "granulated sugar",
     "baking powder",
@@ -601,7 +601,7 @@
     "buttermilk",
     "unsalted butter",
     "eggs",
-    "Clarified Butter"
+    "Clarified Butter",
     "garlic",
     "pasteurized eggs",
     "parmesan cheese",
@@ -613,7 +613,7 @@
     "salt",
     "ground black pepper",
     "vegetable oil",
-    "extra virgin olive oil"
+    "extra virgin olive oil",
     "salt",
     "garlic powder",
     "ground white pepper",
@@ -622,7 +622,7 @@
     "ground black pepper",
     "cayenne pepper",
     "dried ground thyme",
-    "paprika"
+    "paprika",
     "callaloo",
     "olive oil",
     "onion",
@@ -633,10 +633,10 @@
     "fresh pumpkin",
     "salt",
     "ground black pepper",
-    "lump crabmeat"
+    "lump crabmeat",
     "egg whites",
     "granulated sugar",
-    "sliced almonds"
+    "sliced almonds",
     "ruby red grapefruit",
     "oranges",
     "lemon",
@@ -644,30 +644,30 @@
     "salt",
     "granulated sugar",
     "light corn syrup",
-    "granulated sugar"
+    "granulated sugar",
     "unsalted butter",
     "granulated sugar",
     "heavy cream",
-    "glucose"
+    "glucose",
     "granulated sugar",
     "water",
     "Lemon Juice (fresh)",
     "heavy cream",
-    "unsalted butter"
+    "unsalted butter",
     "granulated sugar",
     "water",
     "strawberries",
     "raspberries",
     "blackberries",
     "blueberries",
-    "Veal Stock"
+    "Veal Stock",
     "Fish VeloutÃƒÂ©",
     "Fish Stock",
     "heavy cream",
     "cayenne pepper",
     "Lobster Butter",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "beef tenderloin",
     "mayonnaise",
     "Dijon mustard",
@@ -676,15 +676,15 @@
     "capers",
     "cracked black pepper",
     "onion",
-    "olive oil"
+    "olive oil",
     "carrot",
     "harissa",
     "whole cumin",
     "honey",
     "butter",
     "salt",
-    "ground black pepper"
-    "celery"
+    "ground black pepper",
+    "celery",
     "honey",
     "salt",
     "bread flour",
@@ -694,7 +694,7 @@
     "eggs",
     "unsalted butter",
     "Egg Wash",
-    "sesame seeds"
+    "sesame seeds",
     "unsalted butter",
     "yellow onion",
     "dried bay leaves",
@@ -704,7 +704,7 @@
     "heavy cream",
     "kosher salt",
     "ground black pepper",
-    "sour cream"
+    "sour cream",
     "Demi-Glace",
     "medium mushrooms",
     "shallot",
@@ -713,12 +713,12 @@
     "fresh tomatoes",
     "fresh parsley",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "beef tenderloin",
     "salt",
     "ground black pepper",
     "Clarified Butter",
-    "BÃƒÂ©arnaise"
+    "BÃƒÂ©arnaise",
     "Demi-Glace",
     "dry white wine",
     "shallot",
@@ -727,7 +727,7 @@
     "butter",
     "fresh tarragon",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "butter",
     "Mirepoix",
     "leeks",
@@ -742,7 +742,7 @@
     "salt",
     "cayenne pepper",
     "fresh parsley",
-    "Croutons"
+    "Croutons",
     "eggs",
     "milk",
     "vegetable oil",
@@ -753,19 +753,19 @@
     "egg yolks",
     "Lemon Juice (fresh)",
     "vanilla extract",
-    "butter"
+    "butter",
     "BÃƒÂ©chamel",
     "cheddar cheese",
     "worcestershire sauce",
     "dry mustard",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "red onion",
     "butter",
     "dried cherries",
     "brandy",
     "port wine",
-    "sherry vinegar"
+    "sherry vinegar",
     "Mirepoix",
     "bacon",
     "olive oil",
@@ -780,7 +780,7 @@
     "red wine",
     "cayenne pepper",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "cayenne pepper",
     "paprika",
     "ground white pepper",
@@ -799,14 +799,14 @@
     "andouille",
     "okra",
     "long grain rice",
-    "green onion"
+    "green onion",
     "boneless skinless chicken breast",
     "cream of coconut",
     "mayonnaise",
     "curry powder",
     "Lemon Juice (fresh)",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "whole 3 lb up chicken",
     "Chicken Stock",
     "Mirepoix",
@@ -817,19 +817,19 @@
     "salt",
     "ground black pepper",
     "fresh parsley",
-    "Matzo Balls"
+    "Matzo Balls",
     "chicken backs and necks",
     "water",
     "Mirepoix",
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "Clarified Butter",
     "all purpose flour",
     "Chicken Stock",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "onion",
     "vegetable oil",
     "garlic",
@@ -843,7 +843,7 @@
     "worcestershire sauce",
     "green chile pepper",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "red beets",
     "red onion",
     "red wine vinegar",
@@ -852,7 +852,7 @@
     "salt",
     "ground black pepper",
     "fresh chives",
-    "sour cream"
+    "sour cream",
     "dark cherries",
     "apple juice",
     "cinnamon stick",
@@ -862,28 +862,28 @@
     "Lemon Juice (fresh)",
     "sparkling wine",
     "crÃƒÂ¨me fraÃƒÂ®che",
-    "sliced almonds"
+    "sliced almonds",
     "canned chipotle peppers",
     "vegetable oil",
-    "Lime Juice (fresh)"
+    "Lime Juice (fresh)",
     "granulated sugar",
     "heavy cream",
     "unsalted butter",
     "extra bitter chocolate",
     "unsweetened chocolate",
-    "heavy cream"
-    "bittersweet chocolate"
+    "heavy cream",
+    "bittersweet chocolate",
     "egg whites",
     "granulated sugar",
     "water",
-    "butter"
+    "butter",
     "milk",
     "bittersweet chocolate",
     "granulated sugar",
     "vanilla extract",
     "kahlua",
-    "egg yolks"
-    "dark chocolate"
+    "egg yolks",
+    "dark chocolate",
     "orange juice",
     "eggs",
     "granulated sugar",
@@ -891,17 +891,17 @@
     "bittersweet chocolate",
     "grand marnier",
     "butter",
-    "granulated sugar"
+    "granulated sugar",
     "eggs",
     "granulated sugar",
     "vanilla extract",
     "all purpose flour",
     "cocoa powder",
-    "confectioners sugar"
+    "confectioners sugar",
     "fresh Italian parsley",
     "fresh chives",
     "fresh tarragon",
-    "fresh dill"
+    "fresh dill",
     "lean pork",
     "fatback",
     "crushed red pepper",
@@ -910,10 +910,10 @@
     "cayenne pepper",
     "salt",
     "paprika",
-    "red wine vinegar"
+    "red wine vinegar",
     "BÃƒÂ©arnaise",
     "tomato paste",
-    "heavy cream"
+    "heavy cream",
     "fresh cilantro",
     "jalapeno chile pepper",
     "fresh ginger",
@@ -924,14 +924,14 @@
     "sliced almonds",
     "Lime Juice (fresh)",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "eggs",
     "heavy cream",
     "salt",
     "ground cinnamon",
     "sourdough bread",
     "unsalted butter",
-    "confectioners sugar"
+    "confectioners sugar",
     "Orange Juice (fresh)",
     "Lime Juice (fresh)",
     "Lemon Juice (fresh)",
@@ -944,36 +944,36 @@
     "ground black pepper",
     "Orange Zest",
     "Lime Zest",
-    "Lemon Zest"
+    "Lemon Zest",
     "oranges",
     "lemon",
     "lime",
     "vanilla bean",
     "heavy cream",
     "unsalted butter",
-    "salt"
-    "butter"
+    "salt",
+    "butter",
     "bittersweet chocolate",
     "unsalted butter",
     "pasteurized egg yolks",
     "pasteurized egg whites",
     "granulated sugar",
-    "heavy cream"
+    "heavy cream",
     "whole blanched almonds",
     "granulated sugar",
-    "egg whites"
+    "egg whites",
     "eggs",
     "granulated sugar",
     "vanilla extract",
     "cake flour",
-    "unsalted butter"
+    "unsalted butter",
     "Clarified Butter",
     "olive oil",
     "onion",
     "dried bay leaves",
     "long grain rice",
     "Chicken Stock",
-    "salt"
+    "salt",
     "egg yolks",
     "granulated sugar",
     "heavy cream",
@@ -981,18 +981,18 @@
     "vanilla extract",
     "cake flour",
     "whole macadamia nuts",
-    "egg whites"
+    "egg whites",
     "evaporated milk",
     "granulated sugar",
     "egg yolks",
     "unsalted butter",
     "vanilla extract",
     "flaked coconut",
-    "pecan pieces"
-    "ground coffee"
+    "pecan pieces",
+    "ground coffee",
     "water",
     "salt",
-    "long grain rice"
+    "long grain rice",
     "white potato",
     "onion",
     "carrot",
@@ -1001,13 +1001,13 @@
     "corned beef brisket",
     "eggs",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "all purpose flour",
     "salt",
     "granulated sugar",
     "baking powder",
     "unsalted butter",
-    "milk"
+    "milk",
     "water",
     "white vinegar",
     "Lemon Juice (fresh)",
@@ -1015,21 +1015,21 @@
     "dried bay leaves",
     "whole black pepper",
     "dried whole thyme",
-    "fresh parsley"
+    "fresh parsley",
     "unsalted butter",
     "crawfish tails",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "heavy cream",
     "vanilla bean",
     "egg yolks",
     "granulated sugar",
     "raspberries",
     "Tulipe Cookies",
-    "granulated sugar"
+    "granulated sugar",
     "heavy cream",
     "confectioners sugar",
-    "vanilla extract"
+    "vanilla extract",
     "milk",
     "vanilla bean",
     "egg yolks",
@@ -1039,9 +1039,9 @@
     "granulated sugar",
     "water",
     "egg whites",
-    "cream of tartar"
+    "cream of tartar",
     "heavy cream",
-    "buttermilk"
+    "buttermilk",
     "eggs",
     "egg yolks",
     "water",
@@ -1050,25 +1050,25 @@
     "salt",
     "all purpose flour",
     "unsalted butter",
-    "Clarified Butter"
+    "Clarified Butter",
     "shallot",
     "Clarified Butter",
     "white wine",
     "heavy cream",
     "unsalted butter",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "cream cheese",
     "granulated sugar",
     "eggs",
     "vanilla extract",
     "Lemon Zest",
-    "pastry flour"
+    "pastry flour",
     "unsalted butter",
     "cream cheese",
     "unsalted margarine",
     "vanilla extract",
-    "confectioners sugar"
+    "confectioners sugar",
     "butter",
     "onion",
     "celery",
@@ -1078,7 +1078,7 @@
     "heavy cream",
     "salt",
     "ground white pepper",
-    "broccoli florets"
+    "broccoli florets",
     "Mirepoix",
     "olive oil",
     "butter",
@@ -1093,12 +1093,12 @@
     "fresh thyme",
     "worcestershire sauce",
     "fresh thyme",
-    "heavy cream"
+    "heavy cream",
     "BÃƒÂ©chamel",
     "heavy cream",
     "Lemon Juice (fresh)",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "all purpose flour",
     "granulated sugar",
     "baking powder",
@@ -1106,7 +1106,7 @@
     "salt",
     "unsalted butter",
     "egg yolks",
-    "half & half cream"
+    "half & half cream",
     "pasteurized egg yolks",
     "salt",
     "Lemon Juice (fresh)",
@@ -1122,7 +1122,7 @@
     "Dijon mustard",
     "anchovy fillets",
     "tabasco sauce",
-    "worcestershire sauce"
+    "worcestershire sauce",
     "onion",
     "celery",
     "garlic",
@@ -1133,7 +1133,7 @@
     "green bell pepper",
     "Louisiana hot sauce",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "kosher salt",
     "granulated garlic",
     "ground black pepper",
@@ -1141,13 +1141,13 @@
     "granulated onion",
     "paprika",
     "dried ground thyme",
-    "dried ground oregano"
+    "dried ground oregano",
     "Clarified Butter",
     "white bread",
-    "salt"
+    "salt",
     "graham cracker crumbs",
     "granulated sugar",
-    "butter"
+    "butter",
     "light brown sugar",
     "water",
     "canola oil",
@@ -1159,7 +1159,7 @@
     "amaranth flour",
     "all purpose flour",
     "yellow cornmeal",
-    "pecan pieces"
+    "pecan pieces",
     "all purpose flour",
     "chickpea flour",
     "turmeric",
@@ -1171,7 +1171,7 @@
     "salt",
     "granulated sugar",
     "water",
-    "extra virgin olive oil"
+    "extra virgin olive oil",
     "dry active yeast",
     "all purpose flour",
     "granulated sugar",
@@ -1183,35 +1183,35 @@
     "ground cinnamon",
     "unsalted butter",
     "unsalted butter",
-    "Egg Wash"
+    "Egg Wash",
     "evaporated milk",
     "glucose",
     "Simple Syrup",
     "pÃƒÂ¢te a glacer",
-    "extra bitter chocolate"
+    "extra bitter chocolate",
     "cocoa powder",
     "water",
     "granulated sugar",
     "unsalted butter",
-    "heavy cream"
-    "Duchesse Potatoes"
+    "heavy cream",
+    "Duchesse Potatoes",
     "confectioners sugar",
     "Lemon Juice (fresh)",
     "light corn syrup",
     "vanilla extract",
-    "red food coloring"
+    "red food coloring",
     "Brown Stock",
-    "Espagnole (Brown Sauce)"
+    "Espagnole (Brown Sauce)",
     "wine vinegar",
     "Dijon mustard",
     "salt",
     "ground black pepper",
-    "vegetable oil"
+    "vegetable oil",
     "Pastry Cream (CrÃƒÂ¨me PÃƒÂ¢tissiÃƒÂ¨re)",
     "framboise",
     "powdered gelatin",
     "water",
-    "heavy cream"
+    "heavy cream",
     "vegetable oil",
     "chicken liver",
     "beef chuck",
@@ -1224,12 +1224,12 @@
     "Chicken Stock",
     "Cooked Long-Grain Rice",
     "green onion",
-    "fresh parsley"
+    "fresh parsley",
     "all purpose flour",
     "vegetable shortening",
     "salt",
     "water",
-    "eggs"
+    "eggs",
     "dried apricots",
     "pitted prunes",
     "dried pears",
@@ -1237,7 +1237,7 @@
     "water",
     "cinnamon stick",
     "glucose",
-    "cointreau"
+    "cointreau",
     "russet potato",
     "butter",
     "ground nutmeg",
@@ -1245,14 +1245,14 @@
     "ground black pepper",
     "eggs",
     "egg yolks",
-    "Clarified Butter"
+    "Clarified Butter",
     "whole 4-5 lb duck",
     "kosher salt",
     "cracked black pepper",
     "dried bay leaves",
     "fresh thyme",
     "garlic clove",
-    "duck fat"
+    "duck fat",
     "whole duck",
     "duck trimmings",
     "water",
@@ -1260,14 +1260,14 @@
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "medium mushrooms",
     "shallot",
     "garlic",
     "butter",
     "salt",
     "ground black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "medium mushrooms",
     "shallot",
     "Clarified Butter",
@@ -1277,8 +1277,8 @@
     "heavy cream",
     "ground black pepper",
     "salt",
-    "fresh parsley"
-    "eggs"
+    "fresh parsley",
+    "eggs",
     "sourdough bread",
     "mayonnaise",
     "bibb lettuce",
@@ -1288,7 +1288,7 @@
     "unsalted butter",
     "eggs",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "Japanese eggplant",
     "extra virgin olive oil",
     "garlic",
@@ -1299,20 +1299,20 @@
     "provolone cheese",
     "mozzarella cheese",
     "parmesan cheese",
-    "fresh basil"
+    "fresh basil",
     "Japanese eggplant",
     "olive oil",
     "salt",
     "ground black pepper",
     "whole cumin",
-    "fresh parsley"
+    "fresh parsley",
     "english muffin",
     "Canadian bacon",
     "salt",
     "white vinegar",
     "eggs",
     "Hollandaise",
-    "black truffles"
+    "black truffles",
     "dry active yeast",
     "granulated sugar",
     "baking soda",
@@ -1320,8 +1320,8 @@
     "all purpose flour",
     "milk",
     "water",
-    "yellow cornmeal"
-    "beef ribeye"
+    "yellow cornmeal",
+    "beef ribeye",
     "beef marrow",
     "EntrecÃƒÂ´tes (14 oz)",
     "salt",
@@ -1330,7 +1330,7 @@
     "shallot",
     "red wine",
     "Demi-Glace",
-    "butter"
+    "butter",
     "Mirepoix",
     "Clarified Butter",
     "all purpose flour",
@@ -1341,13 +1341,13 @@
     "whole black pepper",
     "fresh parsley",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "raspberries",
     "black mission figs",
     "honey",
     "pasteurized egg yolks",
     "salt",
-    "heavy cream"
+    "heavy cream",
     "beef tenderloin",
     "kosher salt",
     "ground black pepper",
@@ -1364,7 +1364,7 @@
     "heavy cream",
     "kosher salt",
     "light brown sugar",
-    "grits"
+    "grits",
     "butter",
     "onion",
     "fresh parsley",
@@ -1374,7 +1374,7 @@
     "water",
     "medium mushrooms",
     "fresh thyme",
-    "lemon"
+    "lemon",
     "Mirepoix",
     "medium mushrooms",
     "Clarified Butter",
@@ -1383,24 +1383,24 @@
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "butter",
     "all purpose flour",
     "Fish Stock",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "unsalted butter",
     "pastry flour",
     "buttermilk",
     "salt",
     "granulated sugar",
-    "vanilla extract"
-    "Flaky Pie Dough"
+    "vanilla extract",
+    "Flaky Pie Dough",
     "egg whites",
     "granulated sugar",
     "egg yolks",
     "vanilla extract",
-    "cocoa powder"
+    "cocoa powder",
     "granulated sugar",
     "dry active yeast",
     "water",
@@ -1408,15 +1408,15 @@
     "kosher salt",
     "onion",
     "olive oil",
-    "fresh rosemary"
+    "fresh rosemary",
     "BÃƒÂ©arnaise",
-    "Glace de Viande"
+    "Glace de Viande",
     "half & half cream",
     "vanilla extract",
     "frangelico",
     "egg yolks",
-    "granulated sugar"
-    "French bread"
+    "granulated sugar",
+    "French bread",
     "yellow onion",
     "Clarified Butter",
     "Beef Stock",
@@ -1426,12 +1426,12 @@
     "ground black pepper",
     "dry sherry",
     "French bread",
-    "gruyere cheese"
+    "gruyere cheese",
     "water",
     "dry active yeast",
     "bread flour",
-    "salt"
-    "white bread"
+    "salt",
+    "white bread",
     "granulated sugar",
     "orange juice",
     "water",
@@ -1439,8 +1439,8 @@
     "cinnamon stick",
     "grand marnier",
     "Orange Zest",
-    "Orange Segments"
-    "Basic Pasta Dough"
+    "Orange Segments",
+    "Basic Pasta Dough",
     "peaches",
     "dry white wine",
     "honey",
@@ -1448,12 +1448,12 @@
     "ground cinnamon",
     "lowfat yogurt",
     "heavy cream",
-    "shelled pistachio nuts"
+    "shelled pistachio nuts",
     "eggs",
     "olive oil",
     "salt",
     "bread flour",
-    "fresh spinach"
+    "fresh spinach",
     "onion",
     "carrot",
     "garlic",
@@ -1463,14 +1463,14 @@
     "fresh thyme",
     "salt",
     "ground black pepper",
-    "fresh basil"
+    "fresh basil",
     "balsamic vinegar",
     "salt",
     "olive oil",
     "Tomato ConcassÃƒÂ©",
     "fresh basil",
     "shallot",
-    "ground black pepper"
+    "ground black pepper",
     "whole pheasant",
     "pheasant trimmingsfrom production]",
     "semi-boneless quail",
@@ -1480,9 +1480,9 @@
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "semisweet chocolate",
-    "heavy cream"
+    "heavy cream",
     "boneless skinless chicken breast",
     "garlic",
     "ground cumin",
@@ -1495,20 +1495,20 @@
     "green onion",
     "fresh cilantro",
     "eggs",
-    "monterey jack cheese"
+    "monterey jack cheese",
     "lowfat yogurt",
     "fresh cilantro",
     "green onion",
     "Vietnamese fish sauce",
     "honey",
     "garlic",
-    "Lime Juice (fresh)"
+    "Lime Juice (fresh)",
     "butter",
     "garlic",
     "French bread",
     "parmesan cheese",
     "dried ground basil",
-    "dried ground oregano"
+    "dried ground oregano",
     "butter",
     "granulated sugar",
     "salt",
@@ -1516,13 +1516,13 @@
     "all purpose flour",
     "Roasted Garlic PurÃƒÂ©e",
     "grated parmesan cheese",
-    "fresh parsley"
+    "fresh parsley",
     "soy yogurt",
     "fresh parsley",
     "garlic",
     "Dijon mustard",
     "ground black pepper",
-    "tabasco sauce"
+    "tabasco sauce",
     "fresh tomatoes",
     "onion",
     "green bell pepper",
@@ -1544,7 +1544,7 @@
     "yellow bell pepper",
     "cucumber",
     "green onion",
-    "fresh basil"
+    "fresh basil",
     "yellow lentils",
     "water",
     "Yukon gold potato",
@@ -1554,10 +1554,10 @@
     "onion",
     "whole cumin",
     "black mustard seed",
-    "Lemon Juice (fresh)"
-    "Fish Stock"
-    "Brown Veal Stock"
-    "Chicken Stock"
+    "Lemon Juice (fresh)",
+    "Fish Stock",
+    "Brown Veal Stock",
+    "Chicken Stock",
     "butter",
     "russet potato",
     "salt",
@@ -1566,16 +1566,16 @@
     "milk",
     "ground nutmeg",
     "goat cheese",
-    "fresh chives"
-    "white grapefruit"
+    "fresh chives",
+    "white grapefruit",
     "Grapefruit Juice (fresh)",
-    "granulated sugar"
+    "granulated sugar",
     "blackberries",
     "raspberries",
     "blueberries",
     "crÃƒÂ¨me fraÃƒÂ®che",
     "grand marnier",
-    "light brown sugar"
+    "light brown sugar",
     "eggs",
     "heavy cream",
     "salt",
@@ -1584,7 +1584,7 @@
     "Clarified Butter",
     "fresh spinach",
     "feta cheese",
-    "Greek pitted olives"
+    "Greek pitted olives",
     "jalapeno chile pepper",
     "Thai chile pepper",
     "fresh cilantro",
@@ -1593,26 +1593,26 @@
     "lemongrass",
     "fresh galangal",
     "ground cumin",
-    "dried shrimp paste"
+    "dried shrimp paste",
     "cantaloupe melon",
     "honeydew melon",
     "pineapple",
     "strawberries",
     "light brown sugar",
     "Lime Juice (fresh)",
-    "ground cinnamon"
+    "ground cinnamon",
     "rib lamb chops",
     "vegetable oil",
     "salt",
     "ground black pepper",
-    "Herb Butter"
+    "Herb Butter",
     "veal chop 8 oz",
     "olive oil",
     "salt",
     "ground black pepper",
-    "Wild Mushroom RagoÃƒÂ»t"
+    "Wild Mushroom RagoÃƒÂ»t",
     "Hollandaise",
-    "saffron"
+    "saffron",
     "avocado",
     "Lemon Juice (fresh)",
     "green onion",
@@ -1622,7 +1622,7 @@
     "dried whole oregano",
     "jalapeno chile pepper",
     "salt",
-    "Tomato ConcassÃƒÂ©"
+    "Tomato ConcassÃƒÂ©",
     "water",
     "dry white wine",
     "onion",
@@ -1644,7 +1644,7 @@
     "heavy cream",
     "salt",
     "ground black pepper",
-    "fresh chives"
+    "fresh chives",
     "butter",
     "Mirepoix",
     "white turnips",
@@ -1658,14 +1658,14 @@
     "Tomato ConcassÃƒÂ©",
     "frozen corn kernels",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "unsalted butter",
     "fresh parsley",
     "fresh dill",
     "fresh chives",
     "fresh tarragon",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "unsalted butter",
     "cream cheese",
     "sea salt",
@@ -1673,11 +1673,11 @@
     "garlic",
     "fresh chives",
     "fresh parsley",
-    "ground white pepper"
+    "ground white pepper",
     "mayonnaise",
     "fresh basil",
     "fresh cilantro",
-    "fresh parsley"
+    "fresh parsley",
     "whole white pepper",
     "white wine vinegar",
     "water",
@@ -1686,7 +1686,7 @@
     "Clarified Butter",
     "salt",
     "ground white pepper",
-    "cayenne pepper"
+    "cayenne pepper",
     "onion",
     "celery",
     "garlic",
@@ -1700,31 +1700,31 @@
     "ground black pepper",
     "fresh parsley",
     "worcestershire sauce",
-    "ketchup"
+    "ketchup",
     "butter",
     "ground cardamom seed",
     "kosher salt",
     "ground black pepper",
-    "honey"
+    "honey",
     "heavy cream",
     "salt",
     "ground white pepper",
     "butter",
     "all purpose flour",
-    "fresh horseradish"
+    "fresh horseradish",
     "Allemande Sauce",
     "heavy cream",
     "dry mustard",
     "fresh horseradish",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "bacon",
     "corn oil",
     "fresh basil",
     "fresh chives",
     "fresh marjoram",
     "kosher salt",
-    "ground black pepper"
+    "ground black pepper",
     "ground beef",
     "dried whole oregano",
     "garlic powder",
@@ -1735,7 +1735,7 @@
     "parmesan cheese",
     "eggs",
     "worcestershire sauce",
-    "dried bread crumbs"
+    "dried bread crumbs",
     "onion",
     "lard",
     "paprika",
@@ -1745,13 +1745,13 @@
     "ground black pepper",
     "White Stock",
     "tomato paste",
-    "Beef Stew Meat"
+    "Beef Stew Meat",
     "SuprÃƒÂªme Sauce",
     "onion",
     "butter",
     "paprika",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "yellow cornmeal",
     "all purpose flour",
     "baking powder",
@@ -1760,12 +1760,12 @@
     "granulated sugar",
     "onion",
     "eggs",
-    "milk"
+    "milk",
     "milk",
     "heavy cream",
     "vanilla bean",
     "egg yolks",
-    "granulated sugar"
+    "granulated sugar",
     "currants",
     "Irish whiskey",
     "all purpose flour",
@@ -1773,19 +1773,19 @@
     "baking powder",
     "baking soda",
     "light brown sugar",
-    "buttermilk"
+    "buttermilk",
     "fresh Italian parsley",
     "fresh oregano",
     "fresh basil",
-    "fresh sage"
+    "fresh sage",
     "granulated sugar",
     "light corn syrup",
     "water",
-    "egg whites"
+    "egg whites",
     "SuprÃƒÂªme Sauce",
     "Glace de Volaille",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "buttermilk",
     "instant yeast",
     "eggs",
@@ -1800,14 +1800,14 @@
     "light brown sugar",
     "pecan halves",
     "dark raisins",
-    "Powdered Sugar Glaze"
+    "Powdered Sugar Glaze",
     "Brown Stock",
     "cornstarch",
-    "water"
+    "water",
     "kirsch",
     "sheet gelatin",
     "heavy cream",
-    "Pastry Cream (CrÃƒÂ¨me PÃƒÂ¢tissiÃƒÂ¨re)"
+    "Pastry Cream (CrÃƒÂ¨me PÃƒÂ¢tissiÃƒÂ¨re)",
     "milk",
     "instant yeast",
     "eggs",
@@ -1816,19 +1816,19 @@
     "granulated sugar",
     "salt",
     "unsalted butter",
-    "dark raisins"
+    "dark raisins",
     "bread flour",
     "cornstarch",
     "egg yolks",
     "vanilla extract",
     "egg whites",
     "granulated sugar",
-    "confectioners sugar"
+    "confectioners sugar",
     "cornstarch",
     "water",
-    "Lamb Stock"
-    "boneless lamb loin"
-    "boneless lamb loin"
+    "Lamb Stock",
+    "boneless lamb loin",
+    "boneless lamb loin",
     "lamb bones",
     "water",
     "Mirepoix",
@@ -1837,14 +1837,14 @@
     "dried whole thyme",
     "whole black pepper",
     "garlic clove",
-    "fresh parsley"
-    "lemon"
+    "fresh parsley",
+    "lemon",
     "lemon",
     "garlic clove",
     "fresh basil",
     "fresh parsley",
     "salt",
-    "extra virgin olive oil"
+    "extra virgin olive oil",
     "pastry flour",
     "bread flour",
     "baking soda",
@@ -1859,7 +1859,7 @@
     "vanilla extract",
     "Lemon Zest",
     "sour cream",
-    "confectioners sugar"
+    "confectioners sugar",
     "mayonnaise",
     "sweet pickle relish",
     "onion",
@@ -1868,21 +1868,21 @@
     "salt",
     "ground black pepper",
     "worcestershire sauce",
-    "tabasco sauce"
-    "lemon"
-    "lemon"
+    "tabasco sauce",
+    "lemon",
+    "lemon",
     "Beurre Blanc",
     "Lemon Juice (fresh)",
-    "fresh dill"
+    "fresh dill",
     "egg yolks",
     "rice vinegar",
     "mirin",
     "soy sauce",
     "fish sauce",
-    "Lemongrass Oil"
+    "Lemongrass Oil",
     "fresh ginger",
     "lemongrass",
-    "peanut oil"
+    "peanut oil",
     "all purpose flour",
     "medium rye flour",
     "molasses",
@@ -1892,7 +1892,7 @@
     "whole caraway seed",
     "kosher salt",
     "unsalted butter",
-    "Egg Wash"
+    "Egg Wash",
     "powdered gelatin",
     "water",
     "granulated sugar",
@@ -1900,15 +1900,15 @@
     "Lime Zest",
     "pasteurized egg yolks",
     "pasteurized egg whites",
-    "Crumb Pie Crust"
-    "lime"
-    "lime"
-    "lime"
-    "lime"
+    "Crumb Pie Crust",
+    "lime",
+    "lime",
+    "lime",
+    "lime",
     "unsalted butter",
     "lobster meat",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "butter",
     "onion",
     "leeks",
@@ -1920,17 +1920,17 @@
     "tomato juice",
     "water",
     "dried bay leaves",
-    "cayenne pepper"
+    "cayenne pepper",
     "Chicken Stock",
     "powdered gelatin",
-    "Madeira wine"
+    "Madeira wine",
     "Demi-Glace",
     "Madeira wine",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "Hollandaise",
     "Orange Juice (fresh)",
-    "Orange Zest"
+    "Orange Zest",
     "mango",
     "onion",
     "garlic clove",
@@ -1943,7 +1943,7 @@
     "crushed red pepper",
     "mustard seeds",
     "fresh ginger",
-    "Lime Juice (fresh)"
+    "Lime Juice (fresh)",
     "mango",
     "wine vinegar",
     "fresh ginger",
@@ -1953,49 +1953,49 @@
     "white wine",
     "ground allspice",
     "cayenne pepper",
-    "whole cloves"
+    "whole cloves",
     "Demi-Glace",
     "dry red wine",
     "shallot",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "olive oil",
     "balsamic vinegar",
     "fresh rosemary",
     "garlic",
     "ground black pepper",
     "salt",
-    "beef flank steak"
+    "beef flank steak",
     "russet potato",
     "salt",
     "butter",
     "milk",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "eggs",
     "water",
     "chicken fat",
     "matzo meal",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "unsalted butter",
     "pastry flour",
     "buttermilk",
     "salt",
     "granulated sugar",
-    "vanilla extract"
-    "Mealy Pie Dough"
+    "vanilla extract",
+    "Mealy Pie Dough",
     "ground white pepper",
     "red wine vinegar",
     "shallot",
-    "salt"
+    "salt",
     "medium mushrooms",
     "butter",
     "Tomato Sauce",
     "ham",
     "beef tongue",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "white beans",
     "olive oil",
     "onion",
@@ -2015,7 +2015,7 @@
     "salt",
     "ground black pepper",
     "elbow macaroni",
-    "parmesan cheese"
+    "parmesan cheese",
     "butter",
     "shallot",
     "garlic clove",
@@ -2023,12 +2023,12 @@
     "red wine vinegar",
     "port wine",
     "fresh mint",
-    "Demi-Glace"
+    "Demi-Glace",
     "mascarpone cheese",
     "granulated sugar",
     "water",
     "mint compound",
-    "heavy cream"
+    "heavy cream",
     "beef sirloin steak",
     "Dijon mustard",
     "onion",
@@ -2036,10 +2036,10 @@
     "heavy cream",
     "butter",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "onion",
     "carrot",
-    "celery"
+    "celery",
     "cinnamon stick",
     "ground allspice",
     "guajillo chile pepper",
@@ -2055,7 +2055,7 @@
     "dried whole oregano",
     "Chicken Stock",
     "salt",
-    "semisweet chocolate"
+    "semisweet chocolate",
     "unsalted butter",
     "fresh parsley",
     "fresh chervil",
@@ -2064,21 +2064,21 @@
     "egg yolks",
     "garlic clove",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "peanut oil",
     "molasses",
     "light brown sugar",
     "Dijon mustard",
     "red wine vinegar",
     "balsamic vinegar",
-    "maple syrup"
+    "maple syrup",
     "BÃƒÂ©chamel",
     "gruyere cheese",
     "parmesan cheese",
     "heavy cream",
     "butter",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "all purpose flour",
     "granulated sugar",
     "baking soda",
@@ -2091,9 +2091,9 @@
     "apple",
     "eggs",
     "corn oil",
-    "vanilla extract"
+    "vanilla extract",
     "Hollandaise",
-    "heavy cream"
+    "heavy cream",
     "unsalted butter",
     "Mirepoix",
     "all purpose flour",
@@ -2105,7 +2105,7 @@
     "milk",
     "salt",
     "ground white pepper",
-    "fresh chives"
+    "fresh chives",
     "milk",
     "vanilla bean",
     "cornstarch",
@@ -2114,7 +2114,7 @@
     "eggs",
     "egg yolks",
     "orange muscat wine",
-    "heavy cream"
+    "heavy cream",
     "Demi-Glace",
     "medium mushrooms",
     "water",
@@ -2123,14 +2123,14 @@
     "ground black pepper",
     "butter",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "Dijon mustard",
     "red wine vinegar",
     "salt",
     "ground black pepper",
     "canola oil",
     "olive oil",
-    "water"
+    "water",
     "fresh yeast",
     "water",
     "bread flour",
@@ -2141,14 +2141,14 @@
     "baking soda",
     "salt",
     "vegetable oil",
-    "black sesame seeds"
+    "black sesame seeds",
     "BÃƒÂ©chamel",
     "heavy cream",
     "Crayfish Butter",
     "paprika",
     "crawfish tails",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "corned beef brisket",
     "White Stock",
     "dried bay leaves",
@@ -2163,7 +2163,7 @@
     "baby carrots",
     "brussel sprouts",
     "pearl onion",
-    "red bliss potato"
+    "red bliss potato",
     "canned clams",
     "water",
     "white potato",
@@ -2180,7 +2180,7 @@
     "worcestershire sauce",
     "fresh thyme",
     "fresh parsley",
-    "carrot"
+    "carrot",
     "graham crackers",
     "butter",
     "cream cheese",
@@ -2189,28 +2189,28 @@
     "cake flour",
     "vanilla extract",
     "Lemon Zest",
-    "heavy cream"
-    "beef strip loin"
+    "heavy cream",
+    "beef strip loin",
     "Fish VeloutÃƒÂ©",
     "medium mushrooms",
     "Fish Stock",
     "egg yolks",
     "heavy cream",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "granulated sugar",
     "water",
     "fish sauce",
     "Lemon Juice (fresh)",
     "garlic clove",
     "Thai chile pepper",
-    "shallot"
+    "shallot",
     "Spanish onion",
     "dried bay leaves",
-    "whole cloves"
-    "Spanish onion"
+    "whole cloves",
+    "Spanish onion",
     "opal basil",
-    "extra virgin olive oil"
+    "extra virgin olive oil",
     "granulated sugar",
     "water",
     "Orange Zest",
@@ -2218,33 +2218,33 @@
     "whole star anise",
     "Brown Stock",
     "honey",
-    "butter"
+    "butter",
     "neutral glaze",
-    "orange juice"
-    "oranges"
-    "oranges"
-    "oranges"
+    "orange juice",
+    "oranges",
+    "oranges",
+    "oranges",
     "orange juice",
     "cider vinegar",
     "salt",
     "ground black pepper",
     "dry mustard",
     "canola oil",
-    "green onion"
-    "oranges"
+    "green onion",
+    "oranges",
     "bread flour",
     "salt",
     "granulated sugar",
     "milk",
     "dry active yeast",
     "unsalted butter",
-    "Egg Wash"
+    "Egg Wash",
     "parsnip",
     "russet potato",
     "heavy cream",
     "butter",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "passion fruit juice",
     "heavy cream",
     "egg yolks",
@@ -2253,12 +2253,12 @@
     "sheet gelatin",
     "confectioners sugar",
     "egg whites",
-    "water"
+    "water",
     "milk",
     "granulated sugar",
     "egg yolks",
     "cornstarch",
-    "unsalted butter"
+    "unsalted butter",
     "ground cloves",
     "ground ginger",
     "ground nutmeg",
@@ -2268,11 +2268,11 @@
     "ground white pepper",
     "dried ground bay leaves",
     "dried ground thyme",
-    "ground marjoram"
+    "ground marjoram",
     "Madeira Sauce",
     "black truffles",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "pork fat",
     "garlic",
     "cayenne pepper",
@@ -2282,14 +2282,14 @@
     "salt",
     "peanut butter",
     "cornstarch",
-    "water"
+    "water",
     "anjou pear",
     "Zinfandel wine",
     "whole black pepper",
     "vanilla bean",
     "granulated sugar",
     "fresh basil",
-    "Orange Zest"
+    "Orange Zest",
     "dry active yeast",
     "granulated sugar",
     "milk",
@@ -2307,18 +2307,18 @@
     "ground cinnamon",
     "pecan halves",
     "light brown sugar",
-    "unsalted butter"
+    "unsalted butter",
     "Boneless Strip Steaks (8 oz)",
     "salt",
     "whole black pepper",
     "Clarified Butter",
     "cognac",
     "heavy cream",
-    "unsalted butter"
+    "unsalted butter",
     "garlic",
     "fresh parsley",
     "Fresh Bread Crumbs",
-    "butter"
+    "butter",
     "fresh Italian parsley",
     "fresh cilantro",
     "fresh mint",
@@ -2330,7 +2330,7 @@
     "Lemon Juice (fresh)",
     "Lime Juice (fresh)",
     "fish sauce",
-    "extra virgin olive oil"
+    "extra virgin olive oil",
     "olive oil",
     "pine nuts",
     "fresh basil",
@@ -2338,7 +2338,7 @@
     "parmesan cheese",
     "romano cheese",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "chicken backs and necks",
     "whole pheasant",
     "pheasant trimmingsfrom production]",
@@ -2347,7 +2347,7 @@
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "oxtails",
     "water",
     "onion",
@@ -2368,10 +2368,10 @@
     "Thai chile pepper",
     "Vietnamese chile sauce",
     "rice vermicelli",
-    "beef tenderloin"
+    "beef tenderloin",
     "butter",
     "confectioners sugar",
-    "phyllo dough"
+    "phyllo dough",
     "fresh tomatoes",
     "green onion",
     "garlic clove",
@@ -2380,7 +2380,7 @@
     "Lemon Juice (fresh)",
     "ground cumin",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "fresh tomatoes",
     "pineapple",
     "fresh papaya",
@@ -2389,15 +2389,15 @@
     "jalapeno chile pepper",
     "Lemon Juice (fresh)",
     "garlic",
-    "salt"
+    "salt",
     "Beurre Rouge",
     "pink peppercorn",
-    "pink peppercorn"
+    "pink peppercorn",
     "pinto beans",
     "water",
     "jalapeno chile pepper",
     "onion",
-    "salt"
+    "salt",
     "shallot",
     "dry white wine",
     "white wine vinegar",
@@ -2407,19 +2407,19 @@
     "fresh parsley",
     "fresh chervil",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "dry active yeast",
     "water",
     "bread flour",
     "water",
     "salt",
     "olive oil",
-    "honey"
-    "plum tomatoes"
+    "honey",
+    "plum tomatoes",
     "water",
     "salt",
     "white vinegar",
-    "eggs"
+    "eggs",
     "Mirepoix",
     "olive oil",
     "dried bay leaves",
@@ -2431,13 +2431,13 @@
     "whole black pepper",
     "butter",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "vegetable oil",
     "all purpose flour",
     "salt",
     "eggs",
     "milk",
-    "butter"
+    "butter",
     "cider vinegar",
     "honey",
     "salt",
@@ -2445,9 +2445,9 @@
     "celery",
     "green onion",
     "vegetable oil",
-    "poppy seed"
-    "boneless pork loin"
-    "boneless pork loin"
+    "poppy seed",
+    "boneless pork loin",
+    "boneless pork loin",
     "pork bones",
     "pork chop 8 oz",
     "water",
@@ -2455,12 +2455,12 @@
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
-    "pork tenderloin"
+    "fresh parsley",
+    "pork tenderloin",
     "Demi-Glace",
     "port wine",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "pork shoulder",
     "Chicken Stock",
     "canned hominy",
@@ -2481,13 +2481,13 @@
     "vegetable oil",
     "romaine lettuce",
     "cider vinegar",
-    "onion"
+    "onion",
     "Idaho potato",
     "celeriac",
     "heavy cream",
     "butter",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "prosciutto",
     "onion",
     "Yukon gold potato",
@@ -2498,7 +2498,7 @@
     "heavy cream",
     "Nisqually smoked salmon",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "Allemande Sauce",
     "medium mushrooms",
     "shallot",
@@ -2507,18 +2507,18 @@
     "Lemon Juice (fresh)",
     "fresh parsley",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "Chicken Stock",
-    "VeloutÃƒÂ©"
+    "VeloutÃƒÂ©",
     "confectioners sugar",
     "vanilla extract",
     "Lemon Juice (fresh)",
-    "water"
+    "water",
     "all purpose flour",
     "salt",
     "unsalted butter",
     "water",
-    "unsalted butter"
+    "unsalted butter",
     "all purpose flour",
     "baking soda",
     "baking powder",
@@ -2532,7 +2532,7 @@
     "salt",
     "canned pumpkin",
     "orange juice",
-    "Streusel Topping"
+    "Streusel Topping",
     "bacon",
     "Mirepoix",
     "garlic clove",
@@ -2544,7 +2544,7 @@
     "whole black pepper",
     "salt",
     "ground black pepper",
-    "Croutons"
+    "Croutons",
     "bacon",
     "Swiss cheese",
     "Flaky Pie Dough Shell",
@@ -2553,22 +2553,22 @@
     "heavy cream",
     "salt",
     "ground black pepper",
-    "ground nutmeg"
+    "ground nutmeg",
     "whole fryer rabbit",
     "water",
     "Mirepoix",
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "semisweet chocolate",
     "raspberry puree",
     "pectin",
     "granulated sugar",
-    "unsalted butter"
+    "unsalted butter",
     "raspberries",
     "granulated sugar",
-    "Lemon Juice (fresh)"
+    "Lemon Juice (fresh)",
     "red wine vinegar",
     "rice vinegar",
     "Lemon Juice (fresh)",
@@ -2579,23 +2579,23 @@
     "honey",
     "seedless raspberry preserves",
     "olive oil",
-    "vegetable oil"
+    "vegetable oil",
     "white potato",
     "bacon fatfrom production]",
     "lard",
     "kosher salt",
     "ground black pepper",
-    "butter"
+    "butter",
     "red onion",
     "Tomato ConcassÃƒÂ©",
     "balsamic vinegar",
     "olive oil",
     "salt",
-    "cayenne pepper"
+    "cayenne pepper",
     "unsalted butter",
     "red bell pepper",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "vegetable oil",
     "garlic",
     "onion",
@@ -2603,7 +2603,7 @@
     "white wine",
     "Chicken Stock",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "carrot",
     "onion",
     "garlic",
@@ -2613,7 +2613,7 @@
     "whole black pepper",
     "rubbed sage",
     "red wine",
-    "red wine vinegar"
+    "red wine vinegar",
     "red wine",
     "garlic",
     "shallot",
@@ -2621,7 +2621,7 @@
     "fresh rosemary",
     "fresh thyme",
     "dried bay leaves",
-    "unsalted butter"
+    "unsalted butter",
     "fresh corn",
     "grapeseed oil",
     "garlic",
@@ -2637,25 +2637,25 @@
     "ground cumin",
     "serrano chile pepper",
     "kosher salt",
-    "ground black pepper"
+    "ground black pepper",
     "fresh rhubarb",
     "granulated sugar",
     "port wine",
-    "water"
+    "water",
     "Clarified Butter",
     "onion",
     "converted rice",
     "dried bay leaves",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "milk",
-    "Lime Juice (fresh)"
+    "Lime Juice (fresh)",
     "cream cheese",
     "ricotta cheese",
     "granulated sugar",
     "eggs",
     "vanilla extract",
-    "pastry flour"
+    "pastry flour",
     "soybean oil",
     "garlic clove",
     "onion",
@@ -2667,7 +2667,7 @@
     "parmesan cheese",
     "all purpose flour",
     "eggs",
-    "panko"
+    "panko",
     "Chicken Stock",
     "saffron",
     "water",
@@ -2675,13 +2675,13 @@
     "onion",
     "arborio rice",
     "dry white wine",
-    "parmesan cheese"
+    "parmesan cheese",
     "oven ready beef rib roast",
     "salt",
     "ground black pepper",
     "garlic",
     "Mirepoix",
-    "Brown Stock"
+    "Brown Stock",
     "boneless veal loin",
     "salt",
     "ground black pepper",
@@ -2690,7 +2690,7 @@
     "garlic clove",
     "fresh thyme",
     "dried bay leaves",
-    "Jus LiÃƒÂ©"
+    "Jus LiÃƒÂ©",
     "fresh corn",
     "milk",
     "salt pork",
@@ -2705,11 +2705,11 @@
     "fresh thyme",
     "ground nutmeg",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "garlic head",
     "olive oil",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "shallot",
     "Clarified Butter",
     "Madeira wine",
@@ -2719,7 +2719,7 @@
     "Demi-Glace",
     "Roux",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "lime",
     "sour cream",
     "poblano chile pepper",
@@ -2734,7 +2734,7 @@
     "ground black pepper",
     "poblano chile pepper",
     "frozen corn kernels",
-    "corn tortilla"
+    "corn tortilla",
     "onion",
     "zucchini",
     "yellow squash",
@@ -2750,7 +2750,7 @@
     "Chicken Stock",
     "Roasted Garlic PurÃƒÂ©e",
     "fresh parsley",
-    "baguette"
+    "baguette",
     "onion",
     "butter",
     "dry white wine",
@@ -2758,7 +2758,7 @@
     "Dijon mustard",
     "granulated sugar",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "butter",
     "all purpose flour",
     "milk",
@@ -2767,17 +2767,17 @@
     "Duxelles",
     "Aurora Sauce",
     "watercress",
-    "fresh parsley"
+    "fresh parsley",
     "white bread",
     "garlic",
     "cayenne pepper",
     "olive oil",
-    "salt"
+    "salt",
     "butter",
-    "all purpose flour"
+    "all purpose flour",
     "confectioners sugar",
     "pasteurized egg whites",
-    "Lemon Juice (fresh)"
+    "Lemon Juice (fresh)",
     "Mirepoix",
     "olive oil",
     "dried whole thyme",
@@ -2789,16 +2789,16 @@
     "worcestershire sauce",
     "milk",
     "ground beef",
-    "Mushroom Sauce"
-    "salmon fillet 3/4 lb"
-    "salmon fillet 3/4 lb"
+    "Mushroom Sauce",
+    "salmon fillet 3/4 lb",
+    "salmon fillet 3/4 lb",
     "dry active yeast",
     "water",
     "Simple Sourdough Starter",
     "bread flour",
     "kosher salt",
     "yellow cornmeal",
-    "egg whites"
+    "egg whites",
     "onion",
     "Clarified Butter",
     "salt",
@@ -2806,7 +2806,7 @@
     "white wine",
     "fresh parsley",
     "veal calves liver",
-    "all purpose flour"
+    "all purpose flour",
     "medium mushrooms",
     "Clarified Butter",
     "golden delicious apple",
@@ -2816,7 +2816,7 @@
     "shallot",
     "calvados",
     "crÃƒÂ¨me fraÃƒÂ®che",
-    "fresh parsley"
+    "fresh parsley",
     "Veal Scallops (3 oz)",
     "Clarified Butter",
     "all purpose flour",
@@ -2827,7 +2827,7 @@
     "Lemon Juice (fresh)",
     "Brown Veal Stock",
     "unsalted butter",
-    "lemon"
+    "lemon",
     "eggs",
     "egg yolks",
     "water",
@@ -2836,7 +2836,7 @@
     "salt",
     "all purpose flour",
     "unsalted butter",
-    "Clarified Butter"
+    "Clarified Butter",
     "onion",
     "butter",
     "granny smith apple",
@@ -2844,7 +2844,7 @@
     "granulated sugar",
     "paprika",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "breakfast sausage",
     "fresh sage",
     "fresh thyme",
@@ -2854,20 +2854,20 @@
     "all purpose flour",
     "eggs",
     "eggs",
-    "dried bread crumbs"
+    "dried bread crumbs",
     "eggs",
     "heavy cream",
     "salt",
     "ground black pepper",
-    "Clarified Butter"
+    "Clarified Butter",
     "unsalted butter",
     "shallot",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "canola oil",
     "shallot",
     "curry powder",
-    "water"
+    "water",
     "Mirepoix",
     "medium mushrooms",
     "Clarified Butter",
@@ -2878,21 +2878,21 @@
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "butter",
     "ham",
     "eggs",
     "salt",
     "ground black pepper",
     "heavy cream",
-    "Swiss cheese"
+    "Swiss cheese",
     "egg yolks",
     "unsalted butter",
     "confectioners sugar",
     "vanilla extract",
     "salt",
     "almond flour",
-    "pastry flour"
+    "pastry flour",
     "all purpose flour",
     "baking powder",
     "salt",
@@ -2901,7 +2901,7 @@
     "eggs",
     "milk",
     "butter",
-    "granulated sugar"
+    "granulated sugar",
     "16-20 ct shrimp",
     "green onion",
     "Clarified Butter",
@@ -2909,7 +2909,7 @@
     "salt",
     "ground black pepper",
     "avocado",
-    "fresh cilantro"
+    "fresh cilantro",
     "Clarified Butter",
     "Mirepoix",
     "shrimp shells",
@@ -2928,7 +2928,7 @@
     "cayenne pepper",
     "dry sherry wine",
     "16-20 ct shrimp",
-    "fresh basil"
+    "fresh basil",
     "shrimp shellsfrom production]",
     "water",
     "onion",
@@ -2939,13 +2939,13 @@
     "dried whole thyme",
     "whole black pepper",
     "fresh parsley",
-    "dry white wine"
+    "dry white wine",
     "water",
     "salt",
-    "white rice"
-    "organic artisan flour"
+    "white rice",
+    "organic artisan flour",
     "granulated sugar",
-    "water"
+    "water",
     "bacon",
     "onion",
     "carrot",
@@ -2956,7 +2956,7 @@
     "salt",
     "ground black pepper",
     "green peas",
-    "green onion"
+    "green onion",
     "butter",
     "milk",
     "yellow cornmeal",
@@ -2964,7 +2964,7 @@
     "ground black pepper",
     "fresh corn",
     "onion",
-    "eggs"
+    "eggs",
     "fresh tomatoes",
     "garlic",
     "shallot",
@@ -2972,7 +2972,7 @@
     "white wine",
     "Vegetable Stock",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "dry active yeast",
     "water",
     "bread flour",
@@ -2982,7 +2982,7 @@
     "vegetable shortening",
     "unsalted butter",
     "eggs",
-    "Egg Wash"
+    "Egg Wash",
     "shallot",
     "butter",
     "white wine",
@@ -2991,12 +2991,12 @@
     "fresh spinach",
     "salt",
     "ground white pepper",
-    "Lemon Juice (fresh)"
+    "Lemon Juice (fresh)",
     "onion",
     "butter",
     "BÃƒÂ©chamel",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "all purpose flour",
     "ground cinnamon",
     "light brown sugar",
@@ -3010,7 +3010,7 @@
     "salt",
     "baking powder",
     "baking soda",
-    "vanilla extract"
+    "vanilla extract",
     "unsalted butter",
     "granulated sugar",
     "eggs",
@@ -3019,7 +3019,7 @@
     "baking soda",
     "salt",
     "sour cream",
-    "vanilla extract"
+    "vanilla extract",
     "egg whites",
     "boneless skinless chicken breast",
     "Mirepoix",
@@ -3046,7 +3046,7 @@
     "shiitake mushrooms",
     "fresh cilantro",
     "fresh mint",
-    "fresh basil"
+    "fresh basil",
     "garlic",
     "onion",
     "red pepper flakes",
@@ -3060,17 +3060,17 @@
     "Lemon Juice (fresh)",
     "rice vinegar",
     "Chicken Stock",
-    "peanut butter"
+    "peanut butter",
     "soy sauce",
     "cider vinegar",
     "hot chile oil",
     "green onion",
-    "water"
+    "water",
     "molasses",
     "rice vinegar",
     "soy sauce",
     "fresh ginger",
-    "olive oil"
+    "olive oil",
     "red bell pepper",
     "sliced almonds",
     "whole unblanched hazelnuts",
@@ -3081,24 +3081,24 @@
     "sherry vinegar",
     "extra virgin olive oil",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "Creole Sauce",
     "medium mushrooms",
     "black olives",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "butter",
     "cayenne pepper",
     "ground cinnamon",
     "salt",
     "worcestershire sauce",
     "tabasco sauce",
-    "pecan halves"
+    "pecan halves",
     "eggs",
     "olive oil",
     "salt",
     "bread flour",
-    "fresh spinach"
+    "fresh spinach",
     "cream cheese",
     "sour cream",
     "vanilla extract",
@@ -3107,25 +3107,25 @@
     "butter",
     "strawberries",
     "Lemon Juice (fresh)",
-    "maraschino liqueur"
+    "maraschino liqueur",
     "all purpose flour",
     "ground cinnamon",
     "salt",
     "light brown sugar",
     "granulated sugar",
-    "butter"
+    "butter",
     "granulated sugar",
-    "water"
+    "water",
     "Chicken VeloutÃƒÂ©",
     "medium mushrooms",
     "heavy cream",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "unsalted butter",
     "confectioners sugar",
     "egg yolks",
     "eggs",
-    "all purpose flour"
+    "all purpose flour",
     "sweet potato",
     "bread flour",
     "cake flour",
@@ -3141,7 +3141,7 @@
     "eggs",
     "milk",
     "unsalted butter",
-    "honey"
+    "honey",
     "veal sweetbreads",
     "salt",
     "ground black pepper",
@@ -3151,7 +3151,7 @@
     "butter",
     "capers",
     "lemon",
-    "Veal Demi-Glace"
+    "Veal Demi-Glace",
     "Beef Bottom Round Steaks (6 oz)",
     "all purpose flour",
     "salt",
@@ -3166,17 +3166,17 @@
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "tamarind paste",
     "light brown sugar",
-    "fresh ginger"
+    "fresh ginger",
     "egg yolks",
     "Lemon Juice (fresh)",
     "olive oil",
     "garlic clove",
     "Champagne vinegar",
     "fresh tarragon",
-    "salt"
+    "salt",
     "mayonnaise",
     "capers",
     "sweet pickle relish",
@@ -3185,7 +3185,7 @@
     "Lemon Juice (fresh)",
     "salt",
     "worcestershire sauce",
-    "tabasco sauce"
+    "tabasco sauce",
     "honeydew melon",
     "cantaloupe",
     "garlic",
@@ -3194,14 +3194,14 @@
     "serrano chile pepper",
     "Lime Juice (fresh)",
     "unsalted roasted peanuts",
-    "fresh mint"
+    "fresh mint",
     "cellophane noodles",
     "fresh cilantro",
     "oyster sauce",
     "sesame oil",
     "garlic",
     "soy sauce",
-    "crushed red pepper"
+    "crushed red pepper",
     "garlic",
     "shallot",
     "Clarified Butter",
@@ -3210,13 +3210,13 @@
     "fresh thyme",
     "Lamb Stock",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "Celery Juice",
     "tomato juice",
     "fresh thyme",
     "butter",
     "salt",
-    "tabasco sauce"
+    "tabasco sauce",
     "granulated sugar",
     "water",
     "milk",
@@ -3227,13 +3227,13 @@
     "egg yolks",
     "light brown sugar",
     "molasses",
-    "amaretto"
+    "amaretto",
     "yams",
     "butter",
     "heavy cream",
     "togarishi",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "tomatillos",
     "water",
     "jalapeno chile pepper",
@@ -3241,7 +3241,7 @@
     "ground black pepper",
     "garlic",
     "onion",
-    "fresh cilantro"
+    "fresh cilantro",
     "tomatillos",
     "olive oil",
     "lime",
@@ -3251,7 +3251,7 @@
     "ground cumin",
     "honey",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "Plum Tomato ConcassÃƒÂ©",
     "olive oil",
     "white wine",
@@ -3263,12 +3263,12 @@
     "salt",
     "ground black pepper",
     "butter",
-    "fresh parsley"
+    "fresh parsley",
     "Hollandaise",
     "chili powder",
-    "tomato paste"
-    "fresh tomatoes"
-    "fresh tomatoes"
+    "tomato paste",
+    "fresh tomatoes",
+    "fresh tomatoes",
     "salt pork",
     "Mirepoix",
     "fresh tomatoes",
@@ -3281,14 +3281,14 @@
     "salt",
     "granulated sugar",
     "White Stock",
-    "pork bones"
+    "pork bones",
     "tomato juice",
     "chipotle powder",
     "ground cumin",
     "salt",
-    "ground black pepper"
-    "beef tenderloin"
-    "beef tenderloin"
+    "ground black pepper",
+    "beef tenderloin",
+    "beef tenderloin",
     "Tournedos (3 oz)",
     "Clarified Butter",
     "French Bread Croutons",
@@ -3297,7 +3297,7 @@
     "Madeira wine",
     "Demi-Glace",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "Dijon mustard",
     "garlic",
     "red onion",
@@ -3309,13 +3309,13 @@
     "plum tomatoes",
     "fresh cilantro",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "unsalted butter",
     "confectioners sugar",
     "all purpose flour",
     "egg whites",
-    "butter"
-    "bone in turkey breast 4-7 lb"
+    "butter",
+    "bone in turkey breast 4-7 lb",
     "granulated sugar",
     "light corn syrup",
     "water",
@@ -3325,11 +3325,11 @@
     "pecan halves",
     "vanilla extract",
     "New York Cheesecake",
-    "CrÃƒÂ¨me Chantilly (Chantilly Cream)"
+    "CrÃƒÂ¨me Chantilly (Chantilly Cream)",
     "half & half cream",
     "vanilla bean",
     "egg yolks",
-    "granulated sugar"
+    "granulated sugar",
     "Veal Cutlets (4 oz)",
     "salt",
     "ground white pepper",
@@ -3339,11 +3339,11 @@
     "all purpose flour",
     "Egg Wash",
     "dried bread crumbs",
-    "lemon"
-    "veal top round"
-    "veal top round"
+    "lemon",
+    "veal top round",
+    "veal top round",
     "Brown Veal Stock",
-    "Espagnole (Brown Sauce)"
+    "Espagnole (Brown Sauce)",
     "lean boneless veal",
     "salt",
     "ground black pepper",
@@ -3364,7 +3364,7 @@
     "medium mushrooms",
     "fresh tomatoes",
     "pearl onion",
-    "Rice Pilaf"
+    "Rice Pilaf",
     "Veal Scallops (3 oz)",
     "salt",
     "ground black pepper",
@@ -3373,7 +3373,7 @@
     "olive oil",
     "dry Marsala wine",
     "Brown Veal Stock",
-    "butter"
+    "butter",
     "lean veal",
     "ground nutmeg",
     "salt",
@@ -3381,22 +3381,22 @@
     "heavy cream",
     "Fresh Bread Crumbs",
     "Clarified Butter",
-    "Chasseur (Hunter's Sauce)"
-    "veal top round"
-    "veal top round"
-    "boneless veal shoulder"
+    "Chasseur (Hunter's Sauce)",
+    "veal top round",
+    "veal top round",
+    "boneless veal shoulder",
     "veal bones",
     "water",
     "Mirepoix",
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "butter",
     "all purpose flour",
     "Veal Stock",
     "salt",
-    "ground white pepper"
+    "ground white pepper",
     "vegetable oil",
     "Mirepoix",
     "leeks",
@@ -3409,15 +3409,15 @@
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "butter",
     "all purpose flour",
     "Chicken Stock",
     "salt",
-    "ground white pepper"
-    "boneless loin venison"
-    "boneless loin venison"
-    "boneless loin venison"
+    "ground white pepper",
+    "boneless loin venison",
+    "boneless loin venison",
+    "boneless loin venison",
     "bacon",
     "shallot",
     "carrot",
@@ -3425,7 +3425,7 @@
     "celery",
     "onion",
     "red wine",
-    "Veal Stock"
+    "Veal Stock",
     "leeks",
     "butter",
     "russet potato",
@@ -3434,7 +3434,7 @@
     "ground white pepper",
     "heavy cream",
     "fresh chives",
-    "sweet potato"
+    "sweet potato",
     "all purpose flour",
     "salt",
     "baking powder",
@@ -3442,39 +3442,39 @@
     "eggs",
     "milk",
     "unsalted butter",
-    "vanilla extract"
+    "vanilla extract",
     "peaches",
     "vanilla bean",
     "granulated sugar",
     "Lemon Juice (fresh)",
     "unsalted butter",
-    "Pastry Cream (CrÃƒÂ¨me PÃƒÂ¢tissiÃƒÂ¨re)"
+    "Pastry Cream (CrÃƒÂ¨me PÃƒÂ¢tissiÃƒÂ¨re)",
     "fresh mint",
     "water",
     "granulated sugar",
     "seedless watermelon",
     "dark cherries",
-    "fresh mint"
+    "fresh mint",
     "dark cherries",
     "port wine",
     "oranges",
     "Simple Syrup",
-    "Chicken Stock"
+    "Chicken Stock",
     "chicken backs and necks",
     "water",
     "Mirepoix",
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "granulated sugar",
     "water",
     "egg whites",
     "unsalted butter",
     "white crÃƒÂ¨me de cacao",
-    "white chocolate"
+    "white chocolate",
     "butter",
-    "all purpose flour"
+    "all purpose flour",
     "water",
     "nonfat dry milk",
     "granulated sugar",
@@ -3482,21 +3482,21 @@
     "dry active yeast",
     "bread flour",
     "unsalted butter",
-    "eggs"
+    "eggs",
     "chicken backs and necks",
     "water",
     "Mirepoix",
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "veal bones",
     "water",
     "Mirepoix",
     "dried bay leaves",
     "dried whole thyme",
     "whole black pepper",
-    "fresh parsley"
+    "fresh parsley",
     "garlic",
     "onion",
     "white wine",
@@ -3505,7 +3505,7 @@
     "ground white pepper",
     "salt",
     "Lemon Juice (fresh)",
-    "vegetable oil"
+    "vegetable oil",
     "salt",
     "nonfat dry milk",
     "whole wheat flour",
@@ -3513,7 +3513,7 @@
     "dry active yeast",
     "honey",
     "unsalted butter",
-    "butter"
+    "butter",
     "garlic",
     "olive oil",
     "shiitake mushrooms",
@@ -3524,7 +3524,7 @@
     "salt",
     "ground black pepper",
     "French Bread Croutons",
-    "fresh parsley"
+    "fresh parsley",
     "bacon",
     "garlic",
     "shallot",
@@ -3538,7 +3538,7 @@
     "Veal Demi-Glace",
     "plum tomatoes",
     "salt",
-    "ground black pepper"
+    "ground black pepper",
     "eggs",
     "corn oil",
     "granulated sugar",
