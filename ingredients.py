@@ -6,10 +6,10 @@ import sys, json
 
 input = open(sys.argv[1])
 data = json.load(input) #data now a dict
-list = []
+lis = []
 
 for item in data['results']: 
-  list.append(item[u"ingredients"])
+  lis.append(item[u"ingredients"])
 
 with open('ingredients.json', 'w') as outfile:
-  json.dump(list, outfile)
+  json.dump(lis, outfile)
