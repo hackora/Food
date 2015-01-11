@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from __future__ import print_function
+from __future__ import print_function, division
 import sys
 import os
 from wsgiref.simple_server import make_server
@@ -47,12 +47,17 @@ def application(environ, start_response):
 
         tasty_rating = taste_clf.predict(feature_vector)[0]
         health_rating = health_clf.predict(feature_vector)[0]
+        if health_rating < 0:
+            health_rating = 0
+        if health_rating > 1:
+            health_rating = 1
+        health_rating = int(health_rating // 0.2)+1
     else:
         tasty_rating = 0
         health_rating = 0
 
-    response = {"ratings": {"health": health_rating,
-                            "yummy": tasty_rating}}
+    response = {"ratings": {"health": int(health_rating),
+                            "yummy": int(tasty_rating)}}
 
     status = '200 OK'
     response_body = str(response)
