@@ -4,7 +4,7 @@ import sys
 import os
 from wsgiref.simple_server import make_server
 from cgi import parse_qs, escape
-from sklearn.externals import joblib
+import sklearn
 
 html = """
 <html>
@@ -56,7 +56,7 @@ def application(environ, start_response):
 
    return [response_body]
 
-clf = joblib.load('classifier/clf.pkl')
+clf = sklearn.external.joblib.load('classifier/clf.pkl')
 
 
 httpd = make_server('0.0.0.0', int(os.environ.get('PORT', 5000)), application)
