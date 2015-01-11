@@ -4,15 +4,12 @@ from __future__ import print_function
 import sys
 import os
 from wsgiref.simple_server import make_server
-<<<<<<< HEAD
 from cgi import parse_qs, escape
-=======
 from cgi import escape
 import sklearn
 import cPickle
 
 import urlparse
->>>>>>> afc3ea5e0dcbd507a0e6b20baf6840ac83d9328f
 
 html = """
 <html>
@@ -37,10 +34,6 @@ html = """
    </body>
 </html>"""
 
-<<<<<<< HEAD
-=======
-
->>>>>>> afc3ea5e0dcbd507a0e6b20baf6840ac83d9328f
 def application(environ, start_response):
     # Returns a dictionary containing lists as values.
     d = urlparse.parse_qs(environ['QUERY_STRING'])
@@ -49,7 +42,6 @@ def application(environ, start_response):
     print(ingredients)
     # Always escape user input to avoid script injection
 
-<<<<<<< HEAD
    # Returns a dictionary containing lists as values.
    d = parse_qs(environ['QUERY_STRING'])
 
@@ -70,7 +62,6 @@ def application(environ, start_response):
    response_headers = [('Content-Type', 'text/html'),
                   ('Content-Length', str(len(response_body)))]
    start_response(status, response_headers)
-=======
     # features = []
     # feature_vector = [1 if ingredient == feature else 0 for feature in features]
     #
@@ -79,7 +70,6 @@ def application(environ, start_response):
     tasty_rating = 500
     response = {"ratings": {"health": 0,
                             "rating": tasty_rating}}
->>>>>>> afc3ea5e0dcbd507a0e6b20baf6840ac83d9328f
 
     status = '200 OK'
     response_body = str(response)
@@ -87,14 +77,11 @@ def application(environ, start_response):
                         ('Content-Length', str(len(response_body)))]
     start_response(status, response_headers)
 
-<<<<<<< HEAD
-=======
     return [response_body]
 
 with open('clf.pickle', 'rb') as f:
     taste_clf = cPickle.load(f)
 
->>>>>>> afc3ea5e0dcbd507a0e6b20baf6840ac83d9328f
 httpd = make_server('0.0.0.0', int(os.environ.get('PORT', 5000)), application)
 # Now it is serve_forever() in instead of handle_request().
 # In Windows you can kill it in the Task Manager (python.exe).
