@@ -52,7 +52,7 @@ def application(environ, start_response):
         health_rating = 0
 
     response = {"ratings": {"health": health_rating,
-                            "rating": tasty_rating}}
+                            "yummy": tasty_rating}}
 
     status = '200 OK'
     response_body = str(response)
