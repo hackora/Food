@@ -4,7 +4,6 @@ from __future__ import print_function
 import sys
 import os
 from wsgiref.simple_server import make_server
-from cgi import parse_qs, escape
 from cgi import escape
 import sklearn
 import cPickle
@@ -34,6 +33,7 @@ html = """
    </body>
 </html>"""
 
+
 def application(environ, start_response):
     # Returns a dictionary containing lists as values.
     d = urlparse.parse_qs(environ['QUERY_STRING'])
@@ -42,26 +42,6 @@ def application(environ, start_response):
     print(ingredients)
     # Always escape user input to avoid script injection
 
-   # Returns a dictionary containing lists as values.
-   d = parse_qs(environ['QUERY_STRING'])
-
-   # In this idiom you must issue a list containing a default value.
-   age = d.get('age', [''])[0] # Returns the first age value.
-   hobbies = d.get('hobbies', []) # Returns a list of hobbies.
-
-   # Always escape user input to avoid script injection
-   age = escape(age)
-   hobbies = [escape(hobby) for hobby in hobbies]
-
-   response_body = html % (age or 'Empty',
-               ', '.join(hobbies or ['No Hobbies']))
-
-   status = '200 OK'
-
-   # Now content type is text/html
-   response_headers = [('Content-Type', 'text/html'),
-                  ('Content-Length', str(len(response_body)))]
-   start_response(status, response_headers)
     # features = []
     # feature_vector = [1 if ingredient == feature else 0 for feature in features]
     #
