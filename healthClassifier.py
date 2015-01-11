@@ -26,20 +26,21 @@ y = data["Health"].astype(int).values
 
 #print cols[x[-2].astype(bool)]
 
-# kf = KFold(n=X.shape[0], n_folds=5, shuffle=True, random_state=42)
-# for train_index, test_index in kf:
-#     X_train, X_test = X[train_index], X[test_index]
-#     y_train, y_test = y[train_index], y[test_index]
-#
-#     #model = LinearRegression()
-#     model = ExtraTreesRegressor(n_estimators=50)
-#     model.fit(X_train,y_train)
-#     predicted = model.predict(X_test)
-#     print mean_absolute_error(y_test, predicted)
+kf = KFold(n=X.shape[0], n_folds=5, shuffle=True, random_state=42)
+for train_index, test_index in kf:
+    X_train, X_test = X[train_index], X[test_index]
+    y_train, y_test = y[train_index], y[test_index]
+    
+    #model = LinearRegression()
+    #model = ExtraTreesRegressor(n_estimators=50)
+    #model.fit(X_train,y_train)
+    #predicted = model.predict(X_test)
+    #print mean_absolute_error(y_test, predicted)
 
 
 # Test Model:
-model = ExtraTreesRegressor(n_estimators=50)
+model = LinearRegression()
+#model = ExtraTreesRegressor(n_estimators=50)
 model.fit(X,y)
 
 import cPickle
