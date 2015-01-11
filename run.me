@@ -1,0 +1,12 @@
+
+waiting_time=1800  # 1800 secs => 30 min
+
+i=0
+while true; do
+    i=$[$i+1]
+    echo "Running it for the ${i} time"
+    python bigOven.py
+    sleep $waiting_time
+
+done
+
