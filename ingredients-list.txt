@@ -51,7 +51,6 @@ bell
 oats
 sodium
 beef
-oz
 flakes
 carrot
 oregano
@@ -60,7 +59,6 @@ cumin
 paprika
 sesame
 mustard
-crushed
 spinach
 corn
 potatoes
@@ -75,7 +73,6 @@ peas
 peanut
 almond
 walnuts
-granulated
 canned
 lime
 leaf
