@@ -48,7 +48,7 @@ for key in ["dvxSnQcNBSQI77748n31rTuw66IHgElP", "dvxqIL58gls8jQ82A1tFjX492y2sWUE
         page = page + 1
         print "NEW PAGE -----> ", page
         # parameters for recipe search
-        search_params = {"api_key": key, "sort" : "title", "pg": page, "rpp": 50, }
+        search_params = {"api_key": key, "pg": page, "rpp": 50, "sort": "dateasc"}
         if onlyHealth:
             search_params["any_kw"] = "health"
 
