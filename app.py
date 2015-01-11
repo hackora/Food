@@ -37,18 +37,21 @@ html = """
 def application(environ, start_response):
     # Returns a dictionary containing lists as values.
     d = urlparse.parse_qs(environ['QUERY_STRING'])
-    # In this idiom you must issue a list containing a default value.
-    ingredients = d.get('ingredients', [])[0].split(',')  # Returns the first age value.
-    print(ingredients)
+
+    ingredients = d.get('ingredients', [])
+    if ingredients:
+        ingredients = ingredients[0].split(',')
     # Always escape user input to avoid script injection
 
-    # features = []
-    # feature_vector = [1 if ingredient == feature else 0 for feature in features]
-    #
-    # tasty_rating = clf.predict(feature_vector)
-    # health_rating =
-    tasty_rating = 500
-    response = {"ratings": {"health": 0,
+        feature_vector = [1 if feature in ingredients else 0 for feature in features]
+
+        tasty_rating = taste_clf.predict(feature_vector)[0]
+        health_rating = health_clf.predict(feature_vector)[0]
+    else:
+        tasty_rating = 0
+        health_rating = 0
+
+    response = {"ratings": {"health": health_rating,
                             "rating": tasty_rating}}
 
     status = '200 OK'
@@ -58,6 +61,14 @@ def application(environ, start_response):
     start_response(status, response_headers)
 
     return [response_body]
+
+with open('ingrds_500.txt') as f:
+    content = f.readlines()
+features = [a.strip() for a in content]
+features = sorted(features)
+
+with open('hclf.pickle', 'rb') as f:
+    health_clf = cPickle.load(f)
 
 with open('clf.pickle', 'rb') as f:
     taste_clf = cPickle.load(f)
