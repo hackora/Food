@@ -5,8 +5,8 @@ i=0
 while true; do
     i=$[$i+1]
     echo "Running it for the ${i} time"
-    sleep $waiting_time
     python bigOven.py
+    sleep $waiting_time
 
 done
 
