@@ -4,6 +4,7 @@ import sys
 import os
 from wsgiref.simple_server import make_server
 from cgi import parse_qs, escape
+from sklearn.externals import joblib
 
 html = """
 <html>
@@ -28,6 +29,8 @@ html = """
    </body>
 </html>"""
 
+
+
 def application(environ, start_response):
 
    # Returns a dictionary containing lists as values.
@@ -40,7 +43,7 @@ def application(environ, start_response):
    # Always escape user input to avoid script injection
    age = escape(age)
    hobbies = [escape(hobby) for hobby in hobbies]
-
+   hobbies = clf
    response_body = html % (age or 'Empty',
                ', '.join(hobbies or ['No Hobbies']))
 
@@ -52,6 +55,9 @@ def application(environ, start_response):
    start_response(status, response_headers)
 
    return [response_body]
+
+clf = joblib.load('classifier/clf.pkl')
+
 
 httpd = make_server('0.0.0.0', int(os.environ.get('PORT', 5000)), application)
 # Now it is serve_forever() in instead of handle_request().
