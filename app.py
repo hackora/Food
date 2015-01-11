@@ -7,6 +7,7 @@ from wsgiref.simple_server import make_server
 from cgi import escape
 import sklearn
 import cPickle
+import json
 
 import urlparse
 
@@ -60,7 +61,7 @@ def application(environ, start_response):
                             "yummy": int(tasty_rating)}}
 
     status = '200 OK'
-    response_body = str(response)
+    response_body = json.dumps(response)
     response_headers = [('Content-Type', 'application/json'),
                         ('Content-Length', str(len(response_body)))]
     start_response(status, response_headers)
